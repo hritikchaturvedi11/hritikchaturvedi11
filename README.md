@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Hritik
 
 
 Skills: Machine Learning / Deep Learning / Android Studio / Python / JS / HTML / CSS 
