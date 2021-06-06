@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Hritik
-
+#### I am Data Science enthusiast
 
 Skills: Machine Learning / Deep Learning / Android Studio / Python / JS / HTML / CSS 
 
