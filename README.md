@@ -1,6 +1,10 @@
-### Hi there 👋, my name is Hritik
-#### I am Data Science enthusiast
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+### <div align="center">I'm Hritik Kumar Chaturvedi, currently pursuing Btech (CSE) from The ICFAI University, Jaipur 🏫. I'm a data science enthusiast 👨‍💻 working remotely since birth 🚀.</div>  
+  
 Skills: Machine Learning / Deep Learning / Android Studio / Python / JS / HTML / CSS 
 
 - 🔭 I’m currently working on Face Swap 
