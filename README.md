@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Hritik
 #### I am Data Science enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&multiline=true&lines=Hi+there;My+name+is+Hritik)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&multiline=true&lines=Hi+there;MY+name+is+Hritik)](https://git.io/typing-svg)
 
 Skills: Machine Learning / Deep Learning / Android Studio / Python / JS / HTML / CSS 
 
