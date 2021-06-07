@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Deep Learning 
 - 🤔 I’m looking for help with FaceSwap(GAN) 
 - 💬 Ask me about Machine Learning, Python 
-- ⚡ Fun fact: I can play guitar too. 
+- ⚡ Fun fact: I use tabs more than needed. 
 
 <br/> 
 
